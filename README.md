@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Step 3 - Run main.py file
+
+```bash
+python main.py
+```
